@@ -24,9 +24,10 @@ const Dashboard = () => {
             <h1 className="text-3xl font-bold bg-gradient-to-r from-gray-900 to-gray-600 dark:from-white dark:to-gray-300 bg-clip-text text-transparent">
               Welcome back, Sarah! 👋
             </h1>
-            <p className="text-gray-600 dark:text-gray-400 mt-1">
-              Here's what's happening with your campaigns today.
+           <p className="text-muted-foreground mt-1">
+               Here&apos;s what&apos;s happening with your campaigns today.
             </p>
+
           </div>
           <div className="flex items-center space-x-2 text-sm text-gray-600 dark:text-gray-400">
             <Calendar className="h-4 w-4" />
