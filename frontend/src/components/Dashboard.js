@@ -25,7 +25,7 @@ const Dashboard = () => {
               Welcome back, Sarah! 👋
             </h1>
            <p className="text-muted-foreground mt-1">
-               Here&apos;s what&apos;s happening with your campaigns today.
+               Here what happening with your campaigns today.
             </p>
 
           </div>
